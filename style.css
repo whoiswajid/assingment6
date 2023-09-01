@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.containe {
+    position: relative;
+    text-align: center;
+    color: white;
+    
+  }
+  
+  
+ 
+  .bottom-right {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+    background-color: black;
+  }
+  
+  
